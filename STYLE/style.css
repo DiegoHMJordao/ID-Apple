@@ -334,4 +334,12 @@ footer{
         margin: 0;
         padding: 30px 50px;
     }
+    
+        .footerDiv0-subDiv{
+        padding: 10px 0;
+    }
+
+    .footer-menu{
+        padding: 10px 0;
+    }
 }
